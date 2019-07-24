@@ -1,5 +1,5 @@
 # Cricket Match Simulation
-Simulating a cricket match scenario provided in the [problem statement](code problem.pdf) using weighted random number generation based on probability
+Simulating a cricket match scenario provided in the [problem statement](./code%20problem.pdf) using weighted random number generation based on probability
 
 # Installing
 ```
@@ -20,4 +20,4 @@ simulator.print_result()
 ```
 
 # Built with
-    - [Numpy](https://numpy.org/)
+- [Numpy](https://numpy.org/)
